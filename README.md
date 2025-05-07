@@ -47,4 +47,4 @@ I'm a mobile app developer with +3 years of experience crafting intuitive iOS ap
 
 - 📬 [Email](mailto:rihr.3001@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-ivan-herrera-rocha-1242b1221)
-- 🧠 [Platzi Profile](https://platzi.com/p/ricardoivanhr)
+- 🧠 [Platzi Profile](https://platzi.com/p/rihr.3001/)
